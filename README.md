@@ -1,5 +1,3 @@
-![logo](https://image.ibb.co/g69ZDx/682111_cloud_512x512.png)
-
 # 5-Day Weather Forecast
 A simple application to display 5-day weather forecast using the OpenWeatherMap API. Built on top of my recently created [React-Redux-Sass Starter Kit](https://github.com/Gigacore/React-Redux-Sass-Starter).
 
